@@ -1,0 +1,14 @@
+{
+    "next": "తర్వాత",
+    "previous": "మునుపటి",
+    "nodata": "డేటా అందుబాటులో లేదు",
+    "listedcontract": "జాబితా చేసిన ఒప్పందాలు",
+    "selectcrop": "పంటను ఎంచుకోండి",
+    "all": "అన్ని",
+    "selectdistance": "దూరాన్ని ఎంచుకోండి",
+    "Available Crops": "అందుబాటులో ఉన్న పంటలు",
+    "District-Specific Crops": "జిల్లా-ప్రత్యేక పంటలు",
+    "Quintal": "క్వింటాల్",
+    "Other crops": "మరికొన్ని పంటలు",
+    "crop": "పంట"
+}
